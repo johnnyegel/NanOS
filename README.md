@@ -20,7 +20,7 @@ Features currently planned:
 * Event engine for Event driven Tasks
 * Serial driver for supported arduino boards (Uno and Micro)
 * Peripheral drivers for:
-** 1-wire serial Temperature sensors
-** Motor controller
-** TFT LCD display
+    * 1-wire serial Temperature sensors
+    * Motor controller
+    * TFT LCD display
 
